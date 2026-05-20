@@ -1,0 +1,2 @@
+# Analyzing-and-Visualizing-Student-Contributions-in-Git-Driven-Course-Projects-Results
+This repository contains the results data used in the study Analyzing and Visualizing Student Contributions in Git-Driven Course Projects. It includes datasets and outputs from the GumTree vs. LOC comparative analysis, as well as interview results collected during the evaluation of the proposed visualization tool.
